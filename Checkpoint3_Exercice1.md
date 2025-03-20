@@ -37,11 +37,20 @@ Q.1.2.1
 
 Q.1.2.2 
 
+![Capture d'écran 2025-03-14 105756](https://github.com/user-attachments/assets/c8d7cbfa-7b14-4dd9-8904-c6de6ad1030f)
+
+
 Q.1.2.3 
 Group Policy Management -> Créer une GPO, lié à l’unité d’organisation
 
+![Capture d'écran 2025-03-14 111155](https://github.com/user-attachments/assets/373bd154-a07e-47f5-852b-d986405ebb10)
+
+
 ### Partie 3 : Lecteurs réseaux
 Q.1.3.1 
+
+![Capture d'écran 2025-03-14 115123](https://github.com/user-attachments/assets/d52cfbb2-82bc-4650-889c-cd98eb35fe53)
+![Capture d'écran 2025-03-14 115034](https://github.com/user-attachments/assets/5e5e640e-c8e3-427c-9341-69050c469274)
 
 
 
